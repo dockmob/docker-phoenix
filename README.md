@@ -1,4 +1,4 @@
-# docker-hadoop
+# docker-phoenix
 Docker images for Apache Phoenix.
 
 Pseudo-distributed mode is supported.
